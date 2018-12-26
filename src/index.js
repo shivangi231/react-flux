@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from "react-dom";
 
-import App from './js/components/app';
+import App from './component-flux/components/app';
 
 ReactDOM.render(
   <App/>,
